@@ -1,5 +1,5 @@
 body{
-    background-image: url(./images/background.png);
+    background-image: url(images/background.png);
 }
 header {
     background-color: #094501;
@@ -47,7 +47,7 @@ a{
 div{
     margin: 40px;
     padding: 40px;
-    background-color: #0E1F0D;
+    background: linear-gradient(darkgreen,black);
     border-radius: 12px;
 }
 .Skills{
